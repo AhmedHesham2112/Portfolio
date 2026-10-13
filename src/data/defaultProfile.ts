@@ -62,7 +62,7 @@ export const defaultCandidateProfile: CandidateProfile = {
       period: "May 2023 – Nov 2024",
       tech_stack: ["JavaScript", "TypeScript", "React", "Python", "C", "Git"],
       highlights: [
-        "Shifted from electrical engineering to software engineering with rigorous full-time immersion (avg. 60+ hrs/week).",
+        "Shifted from electrical engineering to software engineering with Strict full-time immersion (avg. 60+ hrs/week).",
         "Completed 200+ complex programming challenges, algorithms, team sprints, and peer-reviewed code submissions.",
         "Engineered WatchMate, an end-to-end movie discovery application with auth, real-time search, and optimized React Query caching.",
         "Earned verified ALX Software Engineering Certification in Frontend Specialization."
@@ -133,7 +133,7 @@ export const defaultCandidateProfile: CandidateProfile = {
       degree: "ALX Software Engineering Program – Frontend Specialization",
       institution: "ALX Africa",
       period: "2023 – 2024",
-      details: "Rigorous 15-month software engineering program covering modern JavaScript, React, data structures, and distributed team projects.",
+      details: "Strict 15-month software engineering program covering modern JavaScript, React, data structures, and distributed team projects.",
       certificate_url: "https://intranet.alxswe.com/certificates/PGTh6cFYnL"
     },
     {
@@ -146,7 +146,7 @@ export const defaultCandidateProfile: CandidateProfile = {
       degree: "B.Sc. in Electrical Engineering",
       institution: "Ain Shams University",
       period: "2015 – 2020",
-      details: "Overall Grade: Good | Graduation Project: Excellent. Rigorous engineering discipline, analytical problem solving, and electrical systems."
+      details: "Overall Grade: Good | Graduation Project: Excellent. Strict engineering discipline, analytical problem solving, and electrical systems."
     }
   ],
   certifications: [
