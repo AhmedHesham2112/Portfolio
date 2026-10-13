@@ -133,7 +133,7 @@ export const defaultCandidateProfile: CandidateProfile = {
       degree: "ALX Software Engineering Program – Frontend Specialization",
       institution: "ALX Africa",
       period: "2023 – 2024",
-      details: "Rigorous 12-month software engineering program covering modern JavaScript, React, data structures, and distributed team projects.",
+      details: "Rigorous 15-month software engineering program covering modern JavaScript, React, data structures, and distributed team projects.",
       certificate_url: "https://intranet.alxswe.com/certificates/PGTh6cFYnL"
     },
     {
